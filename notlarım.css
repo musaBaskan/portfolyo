@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    background: url(wallpaper.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.container tr {
+    color: white;
+    font-size: 25px;
+    height: 7vh;
+
+}

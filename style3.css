@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    background: url(wallpaper.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.github-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+    transition: background-color 0.3s ease;
+    
+    
+    
+   
+  }
+  
+  .github-button:hover {
+    background-color: #444;
+  }
+  
+  .github-button i {
+    font-size: 25px;
+    margin-right: 10px;
+  }
+  
+  .instagram-button {
+    background-color: #ac2bac;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    
+   
+    
+    
+  }
+  
+  .instagram-button:hover {
+    background-color: #9a2196;
+  }
+  
+  .instagram-button i {
+    font-size: 25px;
+    margin-right: 10px;
+    display: inline-flex;
+  }
+
+
+
+

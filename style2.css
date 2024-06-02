@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(wallpaper.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container ul{
+    color: white;
+    display: inline-block;
+    font-family: roboto;
+    margin-top: 250px;
+    font-size: 25px;
+
+}
+
+.navbar .musa {
+    margin-top: 50px;
+    
+
+}
+
+
+
